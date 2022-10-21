@@ -1,0 +1,803 @@
+[
+  {
+    "platform" : "amazon.se",
+    "brand" : "Gardena",
+    "createdAt" : "2022-10-19T11:48:20.291Z",
+    "externalId" : "B07JXH9FP1",
+    "id" : "634fe404972a2651f779dc20"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-18T21:51:02.195Z",
+    "rating" : 4.4,
+    "externalId" : "B09JZ8WSJM",
+    "id" : "634f1fc69b887917572ee21e"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-18T21:50:14.644Z",
+    "rating" : 4.4,
+    "externalId" : "B09V4JHSH5",
+    "id" : "634f1f969b887917572ee21d"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-18T17:01:39.387Z",
+    "name" : "Samsung HW-B430 2.1Ch Bluetooth Sound Bar With Wireless Sub",
+    "externalId" : "1998805",
+    "id" : "634edbf30c9f27f291745b80"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-17T22:00:57.594Z",
+    "rating" : 4.5,
+    "externalId" : "B0B1LJHFP8",
+    "id" : "634dd0999b887917572ee21c"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-17T21:12:07.897Z",
+    "rating" : 5,
+    "externalId" : "B09BLL1R7G",
+    "id" : "634dc5279b887917572ee21b"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-17T21:11:55.607Z",
+    "rating" : 5,
+    "externalId" : "B09CL67X95",
+    "id" : "634dc51bb9641f1064be4960"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-17T21:11:22.254Z",
+    "rating" : 4.6,
+    "externalId" : "B09JZC5SSJ",
+    "id" : "634dc4fa9b887917572ee21a"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-17T21:11:17.937Z",
+    "rating" : 4.6,
+    "externalId" : "B09JZ8THS3",
+    "id" : "634dc4f5b9641f1064be495f"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-17T21:11:17.266Z",
+    "rating" : 4.6,
+    "externalId" : "B09JZ8BGLC",
+    "id" : "634dc4f59b887917572ee219"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-17T17:03:00.783Z",
+    "name" : "Samsung DV9BTA020AE/EU 9KG Heat Pump Tumble Dryer - White",
+    "externalId" : "9492231",
+    "id" : "634d8ac40c9f27f2913ba89a"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-17T02:00:48.388Z",
+    "name" : "SIM Free Samsung Galaxy A04s 32GB Mobile Phone - Black",
+    "externalId" : "1172418",
+    "id" : "634cb7500c9f27f2911821ca"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-17T02:00:47.706Z",
+    "name" : "Samsung Galaxy Book 2 Pro 15.6in i5 8GB 256GB Laptop Silver",
+    "externalId" : "2010641",
+    "id" : "634cb74f0c9f27f291182117"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-16T22:01:43.114Z",
+    "rating" : 4.7,
+    "externalId" : "B0B9QPSH47",
+    "id" : "634c7f479b887917572ee218"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-16T21:59:44.693Z",
+    "rating" : 4.4,
+    "externalId" : "B09JZ8THRJ",
+    "id" : "634c7ed0b9641f1064be495e"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-16T21:54:50.648Z",
+    "rating" : 4.6,
+    "externalId" : "B0B6FQ53NP",
+    "id" : "634c7daa9b887917572ee217"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-16T21:24:57.081Z",
+    "rating" : 4.4,
+    "externalId" : "B0B1KZJSDX",
+    "id" : "634c76a9b9641f1064be495d"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-16T21:07:44.850Z",
+    "rating" : 4.4,
+    "externalId" : "B0B6FKYZ7R",
+    "id" : "634c72a09b887917572ee216"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-16T21:03:08.344Z",
+    "rating" : 4.5,
+    "externalId" : "B0B1L7LJ48",
+    "id" : "634c718c9b887917572ee215"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-16T21:03:00.469Z",
+    "rating" : 4.5,
+    "externalId" : "B09CTRRLHC",
+    "id" : "634c71849b887917572ee214"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T22:00:00.425Z",
+    "rating" : 4.7,
+    "externalId" : "B09PZ8CDFT",
+    "id" : "634b2d609b887917572ee213"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:59:10.402Z",
+    "rating" : 4.7,
+    "externalId" : "B09CTS4RRV",
+    "id" : "634b2d2eb9641f1064be495c"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:58:45.024Z",
+    "rating" : 4.7,
+    "externalId" : "B09CTV8829",
+    "id" : "634b2d15b9641f1064be495b"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:57:20.320Z",
+    "rating" : 4.3,
+    "externalId" : "B09PZ6X76B",
+    "id" : "634b2cc09b887917572ee212"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:55:41.546Z",
+    "rating" : 4.3,
+    "externalId" : "B09Q99B3V4",
+    "id" : "634b2c5db9641f1064be495a"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:55:39.499Z",
+    "rating" : 4.4,
+    "externalId" : "B09JZ8VBWQ",
+    "id" : "634b2c5b9b887917572ee211"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:54:39.721Z",
+    "rating" : 4.4,
+    "externalId" : "B09JZ86BX1",
+    "id" : "634b2c1fb9641f1064be4959"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:54:34.632Z",
+    "rating" : 4.4,
+    "externalId" : "B09JZ8QYR6",
+    "id" : "634b2c1a9b887917572ee210"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:54:32.056Z",
+    "rating" : 4.4,
+    "externalId" : "B0B1LPFSNY",
+    "id" : "634b2c18b9641f1064be4958"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:54:10.794Z",
+    "rating" : 4.4,
+    "externalId" : "B0B1LQ5D4W",
+    "id" : "634b2c029b887917572ee20f"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:53:43.651Z",
+    "rating" : 4.4,
+    "externalId" : "B09Y64G9NV",
+    "id" : "634b2be7b9641f1064be4957"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:45:26.489Z",
+    "rating" : 4.3,
+    "externalId" : "B09V4HBRBD",
+    "id" : "634b29f6b9641f1064be4956"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:33:48.652Z",
+    "rating" : 4.7,
+    "externalId" : "B09JZ8WSLB",
+    "id" : "634b273c9b887917572ee20e"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:27:26.552Z",
+    "rating" : 4.4,
+    "externalId" : "B08H5Z5VHR",
+    "id" : "634b25beb9641f1064be4955"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:26:58.831Z",
+    "rating" : 4.4,
+    "externalId" : "B08V23RQNQ",
+    "id" : "634b25a29b887917572ee20d"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:25:23.640Z",
+    "rating" : 4.4,
+    "externalId" : "B09JZ6NHJ6",
+    "id" : "634b25439b887917572ee20c"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-15T21:02:30.663Z",
+    "rating" : 4.8,
+    "externalId" : "B08H63S8Q6",
+    "id" : "634b1fe6b9641f1064be4954"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-14T21:54:13.658Z",
+    "rating" : 4.5,
+    "externalId" : "B0B1LJH1VV",
+    "id" : "6349da85b9641f1064be4953"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-14T21:50:44.439Z",
+    "rating" : 4.4,
+    "externalId" : "B0977G59Y9",
+    "id" : "6349d9b4b9641f1064be4952"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-14T21:20:31.136Z",
+    "rating" : 4.8,
+    "externalId" : "B09KBYHY9Y",
+    "id" : "6349d29f9b887917572ee20b"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-14T21:17:13.583Z",
+    "rating" : 4.5,
+    "externalId" : "B09BLMDPJ9",
+    "id" : "6349d1d9b9641f1064be4951"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-14T21:05:46.456Z",
+    "rating" : 4.7,
+    "externalId" : "B0B6FKXBPZ",
+    "id" : "6349cf2ab9641f1064be4950"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-14T17:01:06.607Z",
+    "name" : "SIM Free Samsung Galaxy A23 5G 64GB Mobile Phone - White",
+    "externalId" : "1172384",
+    "id" : "634995d20c9f27f29198cfdd"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T22:23:46.901Z",
+    "rating" : 4.5,
+    "externalId" : "B0B1LXBTX7",
+    "id" : "63488ff29b887917572ee20a"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T22:21:53.676Z",
+    "rating" : 4.5,
+    "externalId" : "B0B1L8RFNV",
+    "id" : "63488f81b9641f1064be494f"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T22:11:25.674Z",
+    "rating" : 4.4,
+    "externalId" : "B09PZ9DHS5",
+    "id" : "63488d0d9b887917572ee209"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T22:08:35.851Z",
+    "rating" : 4.4,
+    "externalId" : "B0B9R3CVT8",
+    "id" : "63488c639b887917572ee208"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T22:04:52.212Z",
+    "rating" : 4.7,
+    "externalId" : "B09V49XKN7",
+    "id" : "63488b849b887917572ee207"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T21:51:50.159Z",
+    "rating" : 4.7,
+    "externalId" : "B0B9QZPFZR",
+    "id" : "63488876b9641f1064be494e"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T21:51:41.886Z",
+    "rating" : 4.7,
+    "externalId" : "B09CTSC4JZ",
+    "id" : "6348886d9b887917572ee206"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T21:51:04.760Z",
+    "rating" : 4.5,
+    "externalId" : "B0B6FQ9ZFQ",
+    "id" : "63488848b9641f1064be494d"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T21:36:30.480Z",
+    "rating" : 4.4,
+    "externalId" : "B0B1LNNV4D",
+    "id" : "634884deb9641f1064be494c"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T21:35:04.697Z",
+    "rating" : 4.4,
+    "externalId" : "B0B6FQZQH2",
+    "id" : "63488488b9641f1064be494b"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T21:34:53.193Z",
+    "rating" : 4.4,
+    "externalId" : "B0B3H3JDV4",
+    "id" : "6348847d9b887917572ee205"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T21:33:03.870Z",
+    "rating" : 4.4,
+    "externalId" : "B0977CK185",
+    "id" : "6348840fb9641f1064be494a"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T21:20:42.486Z",
+    "rating" : 4.4,
+    "externalId" : "B09CTSJCSS",
+    "id" : "6348812a9b887917572ee204"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-13T21:06:59.023Z",
+    "rating" : 4.4,
+    "externalId" : "B09BLMX3ZK",
+    "id" : "63487df3b9641f1064be4949"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T22:13:13.313Z",
+    "rating" : 4.8,
+    "externalId" : "B0B9QZP5L8",
+    "id" : "63473bf99b887917572ee203"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T22:06:30.113Z",
+    "rating" : 4.4,
+    "externalId" : "B09JZC671G",
+    "id" : "63473a66b9641f1064be4948"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T22:05:53.633Z",
+    "rating" : 4.2,
+    "externalId" : "B09PZ6GX4X",
+    "id" : "63473a41b9641f1064be4947"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T22:05:33.687Z",
+    "rating" : 4.2,
+    "externalId" : "B0B6FN578V",
+    "id" : "63473a2d9b887917572ee202"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T22:02:50.949Z",
+    "rating" : 4.8,
+    "externalId" : "B09PHPFJKJ",
+    "id" : "6347398ab9641f1064be4946"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T21:54:09.765Z",
+    "rating" : 4.5,
+    "externalId" : "B09PZ72WWQ",
+    "id" : "634737819b887917572ee201"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T21:54:00.936Z",
+    "rating" : 4.5,
+    "externalId" : "B09V4QDTRN",
+    "id" : "634737789b887917572ee200"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T21:20:23.452Z",
+    "rating" : 4.3,
+    "externalId" : "B09CTR9692",
+    "id" : "63472f979b887917572ee1ff"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T21:15:10.513Z",
+    "rating" : 4.8,
+    "externalId" : "B09BLPRQ1B",
+    "id" : "63472e5eb9641f1064be4945"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T21:09:06.194Z",
+    "rating" : 4.3,
+    "externalId" : "B0B1L2DTPF",
+    "id" : "63472cf2b9641f1064be4944"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T21:08:48.701Z",
+    "rating" : 4.3,
+    "externalId" : "B0B3H2WBZF",
+    "id" : "63472ce09b887917572ee1fe"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "WOLF-Garten",
+    "createdAt" : "2022-10-12T21:04:43.525Z",
+    "rating" : 4.4,
+    "externalId" : "B09CTSYWNP",
+    "id" : "63472beb9b887917572ee1fd"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-09T17:01:50.898Z",
+    "name" : "SIM Free Samsung Galaxy A23 5G 64GB Mobile Phone - Black",
+    "externalId" : "1172377",
+    "id" : "6342fe7e0c9f27f29183788e"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-09T17:01:50.638Z",
+    "name" : "Samsung 85 Inch UE85BU8000KXXU Smart 4K UHD HDR LED TV",
+    "externalId" : "1996364",
+    "id" : "6342fe7e0c9f27f29183786c"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "Makita",
+    "createdAt" : "2022-10-09T15:54:19.245Z",
+    "rating" : 4.8,
+    "externalId" : "B07G9GPZJ8",
+    "id" : "6342eeab972a26cbf579dc1c"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "Logitech",
+    "createdAt" : "2022-10-08T21:02:11.873Z",
+    "rating" : 4.5,
+    "externalId" : "B0BHNVB5M5",
+    "id" : "6341e5539b887917572ee1fc"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-08T02:01:57.590Z",
+    "name" : "Samsung T7 Shield USB 3.2 1TB Portable SSD - Black",
+    "externalId" : "2256728",
+    "id" : "6340da150c9f27f2912ff945"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-07T02:01:21.483Z",
+    "name" : "Samsung Galaxy Buds 2 Pro True Wireless Earbuds - Black",
+    "externalId" : "1124411",
+    "id" : "633f88710c9f27f291fa5eee"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-07T02:01:20.383Z",
+    "name" : "Samsung Customisable Bezel for The Frame 32 Inch TV - Pink",
+    "externalId" : "7228304",
+    "id" : "633f88700c9f27f291fa5dad"
+  },
+  {
+    "brand" : "WOLF-Garten",
+    "platform" : "hornbach.de",
+    "createdAt" : "2022-10-06T14:01:53.656Z",
+    "name" : "Kleinrechner WOLF-Garten Multi-Star",
+    "rating" : 3,
+    "externalId" : "6510641",
+    "id" : "633edfd10c9f27f291decefe"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-04T02:01:49.318Z",
+    "name" : "Samsung SWA-W510 1Ch Wireless Subwoofer",
+    "externalId" : "1999907",
+    "id" : "633b940d0c9f27f2915a05dc"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-10-02T17:01:05.806Z",
+    "name" : "Samsung WW11BB504DABS1 11KG 1400 Washing Machine - Black",
+    "externalId" : "1155222",
+    "id" : "6339c3d10c9f27f29110af88"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-30T17:02:23.618Z",
+    "name" : "Samsung  WW11BGA046AEEU 11KG 1400 Washing Machine - White",
+    "externalId" : "1109900",
+    "id" : "6337211f0c9f27f291a86fcb"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-29T17:01:26.115Z",
+    "name" : "Samsung 65 Inch QE65Q60BAUXXU Smart 4K UHD HDR QLED TV",
+    "externalId" : "1996474",
+    "id" : "6335cf660c9f27f29171c38b"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "JBL",
+    "createdAt" : "2022-09-28T21:02:13.839Z",
+    "rating" : 4.5,
+    "externalId" : "B07H3Q4NLL",
+    "id" : "6334b6559b887917572ee1fb"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "JBL",
+    "createdAt" : "2022-09-28T21:01:47.729Z",
+    "rating" : 4.6,
+    "externalId" : "B07GTQ4MBB",
+    "id" : "6334b63bb9641f1064be4943"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "JBL",
+    "createdAt" : "2022-09-28T21:01:40.049Z",
+    "rating" : 4.8,
+    "externalId" : "B097QHFKB9",
+    "id" : "6334b6349b887917572ee1fa"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-28T02:02:17.987Z",
+    "name" : "Samsung 75 Inch QE75QN90BATXXU Smart 4K UHD HDR Neo QLED TV",
+    "externalId" : "1998087",
+    "id" : "6333ab290c9f27f2911aa875"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-27T17:02:57.099Z",
+    "name" : "Samsung 32 Inch QE32LS03BBUXXU The Frame Smart QLED TV",
+    "externalId" : "1991149",
+    "id" : "63332cc10c9f27f291062efc"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-26T17:01:09.986Z",
+    "name" : "Samsung 75 Inch QE75Q60BAUXXU Smart 4K UHD HDR QLED TV",
+    "externalId" : "1996649",
+    "id" : "6331dad50c9f27f291d07e96"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-26T02:02:42.242Z",
+    "name" : "Samsung 85 Inch QE85QN85BATXXU Smart 4K UHD HDR Neo QLED TV",
+    "externalId" : "1997820",
+    "id" : "633108420c9f27f291af58a4"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-24T02:00:53.829Z",
+    "name" : "EE Samsung Galaxy A03 64GB Mobile Phone - Black",
+    "externalId" : "1131978",
+    "id" : "632e64d50c9f27f291487ebc"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-22T17:01:13.500Z",
+    "name" : "Samsung 43 Inch QE43LS01BAUXXU The Serif Smart 4K QLED TV",
+    "externalId" : "1991785",
+    "id" : "632c94d90c9f27f291ff0278"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-22T02:03:07.607Z",
+    "name" : "Samsung SWA-9200S 2Ch Sound Bar Wireless Rear Speaker Kit",
+    "externalId" : "1999615",
+    "id" : "632bc25b0c9f27f291ddbd7b"
+  },
+  {
+    "platform" : "amazon.co.uk",
+    "brand" : "Gardena",
+    "createdAt" : "2022-09-20T21:02:06.600Z",
+    "rating" : 4.5,
+    "externalId" : "B0001E3W2S",
+    "id" : "632a2a4eb9641f1064be4942"
+  },
+  {
+    "platform" : "amazon.co.uk",
+    "brand" : "Gardena",
+    "createdAt" : "2022-09-20T21:01:40.936Z",
+    "rating" : 4.5,
+    "externalId" : "B07KQKSP1F",
+    "id" : "632a2a349b887917572ee1f9"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-20T17:01:35.806Z",
+    "name" : "Samsung HW-B530 2.1Ch Bluetooth Sound Bar With Wireless Sub",
+    "externalId" : "1998984",
+    "id" : "6329f1ef0c9f27f29194cd32"
+  },
+  {
+    "platform" : "amazon.co.uk",
+    "brand" : "Gardena",
+    "createdAt" : "2022-09-20T15:06:59.564Z",
+    "rating" : 4,
+    "externalId" : "B0001E3W1E",
+    "id" : "6329d713972a2648b879dc1a"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-20T02:02:56.278Z",
+    "name" : "Samsung WW11BGA046AXEU 11KG 1400 Washing Machine - Graphite",
+    "externalId" : "1109924",
+    "id" : "63291f500c9f27f29174032d"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-19T17:01:54.689Z",
+    "name" : "Samsung S24A336NHU 24 Inch 60Hz FHD Monitor",
+    "externalId" : "2720584",
+    "id" : "6328a0820c9f27f2915fbfcd"
+  },
+  {
+    "brand" : "Samsung",
+    "platform" : "argos.co.uk",
+    "createdAt" : "2022-09-19T02:01:23.308Z",
+    "name" : "Samsung 65 Inch QE65S95BAT Smart 4K UHD HDR OLED TV",
+    "externalId" : "2990620",
+    "id" : "6327cd730c9f27f2913e8413"
+  },
+  {
+    "brand" : "WOLF-Garten",
+    "platform" : "hornbach.de",
+    "createdAt" : "2022-09-18T14:00:54.547Z",
+    "name" : "Rasensamen WOLF-Garten Premium Schatten-Sonne 2 kg 100 m²",
+    "rating" : 5,
+    "externalId" : "3517008",
+    "id" : "632724960c9f27f29123c762"
+  },
+  {
+    "platform" : "amazon.de",
+    "brand" : "JBL",
+    "createdAt" : "2022-09-16T21:01:13.741Z",
+    "rating" : 4.7,
+    "externalId" : "B0BFH3QJV6",
+    "id" : "6324e419b9641f1064be4941"
+  }
+]
