@@ -1,11 +1,11 @@
-import products from './sample-data/products.json'
+import sampleProducts from './sample-data/products.json'
 
 export class Service {
-    constructor() {
+    constructor(private products = sampleProducts) {
     }
 
     findAll() {
-        return products
+        return this.products
     }
 
     hello() {
