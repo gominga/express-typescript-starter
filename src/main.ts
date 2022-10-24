@@ -1,9 +1,12 @@
-import * as express from 'express'
+import express from 'express'
+import { Service } from './service'
 
 const app = express()
 
+const service = new Service()
+
 app.get('/', (req, res) => {
-    res.send('Hello')
+    res.send(service.hello())
 });
 
 const port = 3010
